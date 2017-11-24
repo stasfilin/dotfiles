@@ -46,9 +46,6 @@ let g:acp_enableAtStartup = 0
 filetype indent plugin on
 syntax on
 
-filetype indent plugin on
-syntax on
-
 set autoindent
 set smartindent
 set expandtab
